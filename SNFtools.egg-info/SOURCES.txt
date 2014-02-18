@@ -1,3 +1,4 @@
+README
 setup.py
 SNFtools/SNF.py
 SNFtools/__init__.py

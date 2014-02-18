@@ -23,15 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0882353" vertical-offset="0" max-vertical-offset="1065">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="__init__.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SNFtools/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -39,6 +30,24 @@
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="0" selection-start="0" selection-end="736" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="0" selection-start="717" selection-end="717" vertical-scroll-proportion="0.7941176" vertical-offset="195" max-vertical-offset="720">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,7 +86,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state line="16" column="0" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
               <folding>
-                <element signature="e#24#52#0" expanded="true" />
+                <marker date="1392738081000" expanded="true" signature="24:68" placeholder="import ..." />
               </folding>
             </state>
           </provider>
@@ -368,13 +377,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="180">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SNFtools/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="86" column="0" selection-start="2253" selection-end="2253" vertical-scroll-proportion="0.0" vertical-offset="1290" max-vertical-offset="1455">
@@ -443,7 +445,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="0" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
           <folding>
-            <element signature="e#24#52#0" expanded="true" />
+            <marker date="1392738081000" expanded="true" signature="24:68" placeholder="import ..." />
           </folding>
         </state>
       </provider>
@@ -457,9 +459,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="0" selection-end="736" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0882353" vertical-offset="0" max-vertical-offset="1065">
+        <state line="40" column="0" selection-start="717" selection-end="717" vertical-scroll-proportion="0.7941176" vertical-offset="195" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
